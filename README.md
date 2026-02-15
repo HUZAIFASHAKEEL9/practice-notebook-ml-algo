@@ -1,2 +1,2 @@
-# practice-notebook-ml-algo-1
+# practice-notebook-ml-algo
 Learning Machine Learning Algorithms.
